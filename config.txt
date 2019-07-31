@@ -1,4 +1,4 @@
-﻿token= NjA2MDEyMjUyMjM5MTY3NDg4.XUE29A.vrIR09VHKyn9YhPzfOLmnzFjljI
+token= NjA2MDEyMjUyMjM5MTY3NDg4.XUE29A.vrIR09VHKyn9YhPzfOLmnzFjljI
 owner= 358966532308729863
 prefix= !
 game= Fox
